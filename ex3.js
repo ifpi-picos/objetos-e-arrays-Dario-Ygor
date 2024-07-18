@@ -1,7 +1,7 @@
 const livro = {
-    titulo: "Alice no País das Maravilhas",
-    autor: "Lewis Carroll",
-    anoPublicaçao: 1865
+    titulo: "Cartas de um diabo a seu aprendiz",
+    autor: "C.S Lewis",
+    anoPublicaçao: 2017
 }
 
 console.log(
